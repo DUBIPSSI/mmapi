@@ -4,7 +4,8 @@
         "poids": "155 lbs",
         "age": 34,
         "pays": "Irlande",
-        "endurance": 4,
+        "endurance": 85,
+        "force": 85,
         "link": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/MCGREGOR_CONOR_L_07-10.png?itok=xbg9Kwfj"
     },
     {
@@ -12,7 +13,8 @@
         "poids": "155 lbs",
         "age": 34,
         "pays": "Russie",
-        "endurance": 63,
+        "endurance": 90,
+        "force": 90,
         "link": "https://images.bfmtv.com/kA6-RWPhA63kXvKnGYdnSRmxTng=/0x115:2048x1267/images/Khabib-Nurmagomedov-a-lUFC-990313.jpg"
     },
     {
@@ -20,7 +22,8 @@
         "poids": "205 lbs",
         "age": 35,
         "pays": "États-Unis",
-        "endurance": 79,
+        "endurance": 88,
+        "force": 88,
         "link": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-03/JONES_JON_L_BELT_03_04.png?itok=P6J6DQpm"
     },
     {
@@ -28,7 +31,8 @@
         "poids": "170 lbs",
         "age": 29,
         "pays": "France",
-        "endurance": 79,
+        "endurance": 87,
+        "force": 87,
         "link": "https://boxemag.com/wp-content/uploads/2015/10/doumbe.jpg"
     },
     {
@@ -36,7 +40,8 @@
         "poids": "155 lbs",
         "age": 34,
         "pays": "États-Unis",
-        "endurance": 51,
+        "endurance": 86,
+        "force": 86,
         "link": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-03/POIRIER_DUSTIN_L_03-09.png?itok=DXIlLXrO"
     },
     {
@@ -44,7 +49,8 @@
         "poids": "247 lbs",
         "age": 33,
         "pays": "France",
-        "endurance": 86,
+        "endurance": 89,
+        "force": 89,
         "link": "https://boxemag.com/wp-content/uploads/2018/05/ciryl-gane-p2.jpg"
     },
     {
@@ -52,7 +58,8 @@
         "poids": "263 lbs",
         "age": 36,
         "pays": "Cameroun",
-        "endurance": 4,
+        "endurance": 95,
+        "force": 95,
         "link": "https://images.daznservices.com/di/library/DAZN_News/30/21/francis-ngannoumarch2021_al6jp8bmie1m1hcbv34mo6qz8.jpg?t=1692569707"
     },
     {
@@ -60,7 +67,8 @@
         "poids": "155 lbs",
         "age": 30,
         "pays": "Russie",
-        "endurance": 11,
+        "endurance": 82,
+        "force": 82,
         "link": "https://cdn-s-www.lalsace.fr/images/5BF1570E-5E1C-4938-B1DB-B10CD87B8609/NW_raw/baysangur-chamsoudinov-photo-pfl-1709849968.jpg"
     },
     {
@@ -68,7 +76,8 @@
         "poids": "236 lbs",
         "age": "Décédé à 74 ans",
         "pays": "États-Unis",
-        "endurance": 61,
+        "endurance": 92,
+        "force": 92,
         "link": "https://www.francetvinfo.fr/pictures/3LbG7CYRnpXAxjv_Yb0HA7nt5dQ/0x0:3868x5315/fit-in/720x/2016/06/04/phpMZw257_1.jpg"
     },
     {
@@ -76,7 +85,8 @@
         "poids": "240 lbs",
         "age": 56,
         "pays": "États-Unis",
-        "endurance": 40,
+        "endurance": 90,
+        "force": 90,
         "link": "https://boxemag.com/wp-content/uploads/2021/05/mike-p.jpg"
     }
 ]
